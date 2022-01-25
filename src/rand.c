@@ -7,6 +7,9 @@ int random_int(int max)
 	return rand()%max%100%66;
 
 }
+int Bob_add_this(void) {
+	return 1;
+}
 
 void init_rand(void) {
 	srand(time(NULL));

@@ -8,6 +8,9 @@ int random_int(int max)
 
 }
 
+int Alice_add_this(void) {
+	;	
+}
 void init_rand(void) {
 	srand(time(NULL));
 	

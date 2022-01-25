@@ -16,7 +16,7 @@ int Alice_add_this(void) {
 }
 void init_rand(void) {
 	srand(time(NULL));
-	
+	return rand()*max / RAND_MAX;//Bob add some comments
 }
 int main(int argc, char *argv[]) 
 {

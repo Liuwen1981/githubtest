@@ -3,7 +3,7 @@
 
 int random_int(int max)
 {
-	return rand()%max%100;
+	return rand()%max%100%55;
 }
 
 void init_rand(void) {

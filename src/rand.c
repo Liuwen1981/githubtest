@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//generate a bak file
 int random_int(int max)
 {
 	return rand()%max%100%55;

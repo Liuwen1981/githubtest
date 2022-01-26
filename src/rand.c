@@ -8,7 +8,7 @@ int random_int(int max)
 
 }
 int Bob_add_this(void) {
-	return 1;
+	return 1;//NATHAN HELP BOB
 }
 
 int Alice_add_this(void) {
